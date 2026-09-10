@@ -3,6 +3,14 @@
     text-decoration: none;
 }
 
+#page-title {
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(39, 89, 33);
+
+}
+
 .recipe-box {
     display: flex;
     min-height: 200px;
