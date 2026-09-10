@@ -12,7 +12,6 @@
 
 .recipe-photo {
     display: flex;
-    max-width: 150px;
     max-height: 150px;
     padding: 28px;
     margin: 0 auto;
@@ -20,6 +19,8 @@
 }
 
 .recipe-name {
+    display: flex;
+    justify-content: center;
     font: montserrat, Helvetica, arial, sans-serif;
     display: block;
     font-weight: 60;
